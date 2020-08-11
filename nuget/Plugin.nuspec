@@ -2,10 +2,10 @@
 <package >
   <metadata minClientVersion="2.8.1">
     <id>Plugin.PushNotification</id>
-    <version>1.3.0</version>
+    <version>1.3.1</version>
     <title>Push Notification Plugin for Xamarin</title>
-    <authors>Rendy Del Rosario</authors>
-    <owners>crossgeeks</owners>
+    <authors>Tiknil srl (forked from Rendy Del Rosario)</authors>
+    <owners>tiknilsrl</owners>
     <licenseUrl>https://raw.githubusercontent.com/CrossGeeks/PushNotificationPlugin/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/CrossGeeks/PushNotificationPlugin</projectUrl>
     <iconUrl>https://github.com/CrossGeeks/PushNotificationPlugin/blob/master/art/icon.png?raw=true</iconUrl>
